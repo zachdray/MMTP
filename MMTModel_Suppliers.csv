@@ -1,7 +1,7 @@
 ﻿ID;name;country;lat;lon;supply;unit_price
 s1;Buenaventura;Colombia;3.8899335;-77.0786047;3000;95.2
-s2;Tanger;Morocco;35.759465;-5.8339547;2000;90.1
-s3;Sfax;Tunisia;34.747847;10.766163;2000;89.9
+s2;Tanger;Morocco;35.759465;-5.8339547;500;90.1
+s3;Sfax;Tunisia;34.747847;10.766163;500;89.9
 s4;Callao;Peru;-12.0522626;-77.1391133;3000;115.3
 s5;San Antonio;Chile;-33.5808615;-71.6132377;1000;70.1
 s6;Chittagong;Bangladesh;22.6839449;91.7891390;2000;86.8
@@ -29,4 +29,5 @@ s27;Ho Chi Minh;Vietnam;10.7769;106.7009;2500;52.8
 s28;Manila;Philippines;14.5995;120.9842;3000;47.9
 s29;Chennai;India;13.0827;80.2707;2500;41.6
 s30;Mumbai;India;19.0760;72.8777;4000;48.0
+
 
