@@ -1,16 +1,9 @@
 ID;name;country;lat;lon;dwell_time;th_var
-p1;Algeciras;Spain;36.1410956;-5.4381398;2;0.75
-p2;Genoa;Italy;44.4147155;8.9152624;1.5;1.25
-p3;Dunkerque;France;51.025322;2.319269;2.5;1.75
-p4;Marseille;France;43.29695;5.38107;1;1.5
-p5;Gdansk Port;Poland;54.3991953;18.6675405;0.5;2.25
-p6;Saint-Brieuc Port;France;48.5307257;-2.7153271;2;1.5
-p7;Taranto Port;Italy;40.4833333;17.2;2;1.5
-p8;Durres Port;Albania;41.3187308;19.4488134;2;1.5
-p9;Porto;Portugal;41.1520502;-8.6620331;1.5;0.85
-p10;Klaipeda Port;Lithuania;55.7035565;21.1260227;1;0.45
-
-
-
-
-
+FRMRS;Marseille Port;France;43.2923413;5.3551483;0;0.75
+FRFOS;Fos Sur Mer Port;France;43.4130273;4.8877154;0;1.25
+ESTAR;Tarragona Port;Spain;41.0988567;1.2015605;0;1.75
+ESCAS;Castellon De La Plana Port;Spain;39.9666675;0.0094259;0;1.5
+ESSDR;Santander Port;Spain;43.465671;-3.7981273;0;2.25
+ESALG;Algeciras Port;Spain;36.1410956;-5.4381398;0;1.5
+ITVDL; Vado Ligure Port;Italy;44.2692325;8.4378432;0;1.5
+ITGOA;Genova Port;Italy;44.4147155;8.9152624;0;1.5
