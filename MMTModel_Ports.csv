@@ -1,9 +1,3 @@
 ID;name;country;lat;lon;dwell_time;th_var
 FRMRS;Marseille Port;France;43.2923413;5.3551483;0;0.75
 FRFOS;Fos Sur Mer Port;France;43.4130273;4.8877154;0;1.25
-ESTAR;Tarragona Port;Spain;41.0988567;1.2015605;0;1.75
-ESCAS;Castellon De La Plana Port;Spain;39.9666675;0.0094259;0;1.5
-ESSDR;Santander Port;Spain;43.465671;-3.7981273;0;2.25
-ESALG;Algeciras Port;Spain;36.1410956;-5.4381398;0;1.5
-ITVDL; Vado Ligure Port;Italy;44.2692325;8.4378432;0;1.5
-ITGOA;Genova Port;Italy;44.4147155;8.9152624;0;1.5
