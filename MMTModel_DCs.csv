@@ -1,7 +1,4 @@
-ID;name;country;lat;lon;demand;sigma
-d1;Troyes;France;48.297345;4.074401;150;25
-d2;Dijon;France;47.322047;5.041480;260;40
-d3;Valence;France;44.914614;4.936295;120;20
-d4;Bordeaux;France;44.863413;-0.670166;620;95
-d5;Montpellier;France;43.604200;3.847275;180;25
-d6;Nantes;France;47.250980;-1.560745;800;120
+ID;name;country;lat;lon;demand
+d1;Carpentras;France;44.03692212899083;5.040647543098542;150
+d2;Monteux;France;44.02910789400915;4.969488241156798;260
+d3;Stefanowo;Poland;52.046566270846625;20.885806050851713;120
